@@ -1,0 +1,14 @@
+#animate{
+    width: 180px;
+    height: 80px;
+    background-color: pink;
+    position: absolute;
+}
+
+li{
+    list-style-position: inside;
+}
+
+.wrapper{
+    height: 250px;
+ }
