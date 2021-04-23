@@ -15,7 +15,7 @@ $(document).ready(function() {
         //click
         click : function(){
             $("#animate").css({"background-color":"black","color":"pink","border":"pink dashed 10px"})
-            $("#animate").animate({padding:"20px",fontSize:"40px",left:"500px",width:"300px",height:"200px"})   //animate function doesnt support color propertt..so we cant give bg color property to animate
+            $("#animate").animate({padding:"20px",fontSize:"40px",left:"500px",width:"300px",height:"200px"})   //animate function doesnt support color property..so we cant give bg color property to animate
         },
 
         //hover
